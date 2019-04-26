@@ -1,0 +1,21 @@
+
+h
+8app/src/main/java/com/droid/magicpin/BaseViewHolder.java,8\a\8af9579bcb7ad0762dd8edd2b7338fc4dc8d6558
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+r
+Bapp/src/main/java/com/droid/magicpin/VideoRecyclerViewAdapter.java,b\5\b5350119a56ab5556643afd51e1af776a3e04f5f
+k
+;app/src/main/java/com/droid/magicpin/VideoPlayerConfig.java,5\1\5139eaf8dd0228a2b8d2ca3395721f1ef878262c
+o
+?app/src/main/java/com/droid/magicpin/ExoPlayerRecyclerView.java,a\4\a4863b14a2944259ee16ebdf11313580702077b8
+o
+?app/src/main/java/com/droid/magicpin/DividerItemDecoration.java,a\e\ae43346aa9c994b846c58afbbfa4db2f1bab9720
+d
+4app/src/main/java/com/droid/magicpin/MainActivity.kt,a\1\a197a6548c23b12a925fe509b9c321250f32f8ec
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+a
+1app/src/main/java/com/droid/magicpin/VideoInfo.kt,7\c\7c9fc3ef719766f40ba080fc6a8e4614793de1ae

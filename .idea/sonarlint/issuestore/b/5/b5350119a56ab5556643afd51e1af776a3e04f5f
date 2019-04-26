@@ -1,0 +1,8 @@
+
+\squid:S11551">Use isEmpty() to check whether the collection is empty or not.(…›ëù8‡«¾Ó¤-
+Ÿsquid:S1186Z"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛìˆÀ8‡«¾Ó¤-
+\squid:S1155:">Use isEmpty() to check whether the collection is empty or not.(…›ëù8‡«¾Ó¤-
+Ÿsquid:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛìˆÀ8óîÔ¤-
+¤squid:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰°•ıÿÿÿÿ8óîÔ¤-
+}squid:S2637%"_This method's return value is marked "android.support.annotation.NonNull" but null is returned.(¥¹ï8‡«¾Ó¤-
+]squid:S1161^":Add the "@Override" annotation above this method signature(Õ²ˆñşÿÿÿÿ8œîºö¤-
